@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Subscriptions - RSS</title>
+	</head>
+	<body>
+		<outline text="Culture" title="Culture">
+			<outline htmlUrl="http://www.dfdaily.com/" title="上海书评" xmlUrl="http://www.dfdaily.com/rss/1170.xml" type="rss" text="上海书评"/>
+			<outline htmlUrl="http://www.read.org.cn" title="战隼的学习探索" xmlUrl="http://www.read.org.cn/feed" type="rss" text="战隼的学习探索"/>
+			<outline htmlUrl="http://cnpolitics.org" title="政见 CNPolitics.org" xmlUrl="http://cnpolitics.org/feed/" type="rss" text="政见 CNPolitics.org"/>
+			<outline htmlUrl="http://www.newsmth.net/frames.html?mainurl=bbsdoc.php%3Fboard%3DJoke" title="水木社区 Joke/笑话连篇 保留区" xmlUrl="http://newsmth.net/rss.php?mJoke" type="rss" text="水木社区 Joke/笑话连篇 保留区"/>
+			<outline htmlUrl="http://www.duxieren.com" title="读写人" xmlUrl="http://www.duxieren.com/duxieren.xml" type="rss" text="读写人"/>
+			<outline htmlUrl="http://www.petaasia.cn" title="近期新闻 – 亚洲善待动物组织" xmlUrl="http://blog.china.petaasiapacific.com/feed/" type="rss" text="近期新闻 – 亚洲善待动物组织"/>
+		</outline>
+		<outline text="News" title="News">
+			<outline htmlUrl="http://www.acgpiping.net" title="ACG批评" xmlUrl="http://www.acgpiping.net/feed/" type="rss" text="ACG批评"/>
+			<outline htmlUrl="http://www.solidot.org" title="Solidot" xmlUrl="http://feeds2.feedburner.com/solidot" type="rss" text="Solidot"/>
+			<outline htmlUrl="http://www.topgear.com.cn" title="TopGear 汽车测试报告" xmlUrl="http://www.topgear.com.cn/?feed=rss2" type="rss" text="TopGear 汽车测试报告"/>
+			<outline htmlUrl="http://www.alibuybuy.com" title="互联网的那点事" xmlUrl="http://www.alibuybuy.com/feed" type="rss" text="互联网的那点事"/>
+			<outline htmlUrl="http://www.appinn.com" title="小众软件" xmlUrl="http://feeds.appinn.com/appinns/" type="rss" text="小众软件"/>
+			<outline htmlUrl="https://wanqu.co" title="湾区日报" xmlUrl="http://wanqu.co/feed" type="rss" text="湾区日报"/>
+			<outline htmlUrl="http://www.toodaylab.com" title="理想生活实验室" xmlUrl="http://www.toodaylab.com/feed" type="rss" text="理想生活实验室"/>
+		</outline>
+		<outline text="Photography" title="Photography">
+			<outline htmlUrl="https://500px.com/editors.rss" title="500px:" xmlUrl="http://feeds.feedburner.com/500px/gPNJ" type="rss" text="500px:"/>
+			<outline htmlUrl="http://www.commitstrip.com" title="CommitStrip" xmlUrl="http://www.commitstrip.com/en/feed/" type="rss" text="CommitStrip"/>
+			<outline htmlUrl="http://www.nasa.gov/" title="NASA Image of the Day" xmlUrl="http://feeds.feedburner.com/nasa/lthG" type="rss" text="NASA Image of the Day"/>
+			<outline htmlUrl="http://photography.nationalgeographic.com/photography/photo-of-the-day/" title="National Geographic Photo of the Day" xmlUrl="http://feeds.feedburner.com/nationalgeographic/kTDR" type="rss" text="National Geographic Photo of the Day"/>
+			<outline htmlUrl="http://www.meizico.com" title="妹子控 | 妹子控" xmlUrl="http://www.meizico.com/rss" type="rss" text="妹子控 | 妹子控"/>
+			<outline htmlUrl="http://fuliba.net" title="福利吧" xmlUrl="http://fuliba.net/feed" type="rss" text="福利吧"/>
+		</outline>
+		<outline text="Science " title="Science ">
+			<outline htmlUrl="http://www.matrix67.com/blog" title="Matrix67: The Aha Moments" xmlUrl="http://www.matrix67.com/blog/feed" type="rss" text="Matrix67: The Aha Moments"/>
+			<outline htmlUrl="http://blog.sina.com.cn/sciam" title="环球科学（科学美国人）" xmlUrl="http://blog.sina.com.cn/rss/sciam.xml" type="rss" text="环球科学（科学美国人）"/>
+			<outline htmlUrl="http://www.ikexue.org" title="科学公园" xmlUrl="http://scipark.net/feed" type="rss" text="科学公园"/>
+			<outline htmlUrl="http://songshuhui.net" title="科学松鼠会" xmlUrl="http://songshuhui.net/feed" type="rss" text="科学松鼠会"/>
+			<outline htmlUrl="http://ziranzhi.com" title="自然志" xmlUrl="http://ziranzhi.com/feed" type="rss" text="自然志"/>
+		</outline>
+		<outline text="Viewpoint" title="Viewpoint">
+			<outline htmlUrl="http://www.geekonomics10000.com" title="学而时嘻之" xmlUrl="http://www.geekonomics10000.com/feed" type="rss" text="学而时嘻之"/>
+			<outline htmlUrl="http://blog.sina.com.cn/xubenblog" title="徐贲的BLOG" xmlUrl="http://blog.sina.com.cn/rss/1286402547.xml" type="rss" text="徐贲的BLOG"/>
+			<outline htmlUrl="http://blog.farmostwood.net" title="木遥的窗子" xmlUrl="http://blog.farmostwood.net/feed" type="rss" text="木遥的窗子"/>
+			<outline htmlUrl="http://liangwendao.org" title="梁文道" xmlUrl="http://liangwendao.org/feed/" type="rss" text="梁文道"/>
+			<outline htmlUrl="http://program-think.blogspot.com/" title="编程随想的博客" xmlUrl="http://feeds2.feedburner.com/programthink" type="rss" text="编程随想的博客"/>
+			<outline htmlUrl="http://blog.sina.com.cn/headphoneclub" title="耳机俱乐部小白的BLOG" xmlUrl="http://blog.sina.com.cn/rss/1311376432.xml" type="rss" text="耳机俱乐部小白的BLOG"/>
+			<outline htmlUrl="http://coolshell.cn" title="酷 壳 – CoolShell.cn" xmlUrl="http://coolshell.cn/feed" type="rss" text="酷 壳 – CoolShell.cn"/>
+			<outline htmlUrl="http://www.ruanyifeng.com/blog/" title="阮一峰的网络日志" xmlUrl="http://feeds.feedburner.com/ruanyifeng" type="rss" text="阮一峰的网络日志"/>
+		</outline>
+	</body>
+</opml>
